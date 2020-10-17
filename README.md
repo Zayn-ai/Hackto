@@ -19,7 +19,6 @@
 			<div class="p-6 mt-2 border border-gray-300 bg-white cursor-pointer">Item</div>
 			<div class="p-6 mt-2 border border-gray-300 bg-white cursor-pointer">Item</div>
 			<div class="p-6 mt-2 border border-gray-300 bg-white cursor-pointer">Item</div>
-			<div class="p-6 mt-2 border border-gray-300 bg-white cursor-pointer">Item</div>
 		</div>
 	</div>
 	
